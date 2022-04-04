@@ -10,12 +10,27 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.1",
     "expo": "~44.0.0",
+    "expo-camera": "~12.1.2",
+    "expo-location": "~14.0.1",
+    "expo-permissions": "~13.1.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-camera": "^4.2.1",
+    "react-native-camera-hooks": "^0.5.3",
+    "react-native-fs": "^2.19.0",
+    "react-native-google-places-autocomplete": "^2.4.1",
+    "react-native-maps": "0.29.4",
+    "react-native-places-autocomplete": "^1.5.2",
+    "react-native-safe-area-context": "^4.2.4",
+    "react-native-screens": "^3.13.1",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "react-viro-cli": "^2.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
